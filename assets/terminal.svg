@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100" role="img" aria-labelledby="title">
+<title id="title">Build secure software. Defend systems.</title>
+<style>
+.reveal{transform-origin:0 0;animation:type 8s steps(37,end) infinite}
+.cursor{animation:move 8s steps(37,end) infinite,blink 1s step-end infinite}
+@keyframes type{0%{transform:scaleX(0)}45%,90%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+@keyframes move{0%{transform:translateX(0)}45%,90%{transform:translateX(666px)}100%{transform:translateX(0)}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.reveal,.cursor{animation:none!important}.cursor{display:none}}
+</style>
+<defs><clipPath id="typing"><rect class="reveal" x="0" y="0" width="666" height="60"/></clipPath></defs>
+<rect x="1" y="1" width="998" height="98" rx="12" fill="#0d1117" stroke="#25445a" stroke-width="2"/>
+<circle cx="25" cy="21" r="4" fill="#ef7171"/><circle cx="39" cy="21" r="4" fill="#eab96b"/><circle cx="53" cy="21" r="4" fill="#56c99d"/>
+<text x="500" y="24" text-anchor="middle" font-family="monospace" font-size="12" fill="#9caebd">andrew@workspace:~</text>
+<g transform="translate(140 32)" font-family="monospace" font-size="30">
+<text x="-30" y="40" fill="#38bdf8" font-weight="bold">$</text>
+<text x="0" y="40" textLength="666" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing)" fill="#7dd3fc">Build secure software. Defend systems.</text>
+<rect class="cursor" x="3" y="16" width="12" height="30" rx="1" fill="#38bdf8"/>
+</g>
+</svg>
