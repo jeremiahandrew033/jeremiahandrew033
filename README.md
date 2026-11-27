@@ -8,6 +8,8 @@
 
 Building software with security in mind.
 
+<img src="./assets/terminal.svg" alt="Animated terminal: Build secure software. Defend systems." width="85%" />
+
 [![GitHub](https://img.shields.io/badge/GitHub-jeremiahandrew033-181717?style=flat-square&logo=github)](https://github.com/jeremiahandrew033)
 ![Focus](https://img.shields.io/badge/Focus-Secure%20Software-0284c7?style=flat-square)
 
