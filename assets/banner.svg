@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Jeremiah Andrew — Cybersecurity and Software Development</title>
+<desc id="desc">Dark navy banner with cyan circuit lines, a shield and code symbols.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#112b40"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#4fa7ce" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+<g fill="none" stroke="#38bdf8" stroke-opacity=".35" stroke-width="2">
+<path d="M0 50H126L160 84H252M0 90H80L118 128H215M0 247H122L166 203H245M1200 50H1074L1040 84H948M1200 90H1120L1082 128H985M1200 247H1078L1034 203H955"/>
+<circle cx="252" cy="84" r="4"/><circle cx="215" cy="128" r="4"/><circle cx="245" cy="203" r="4"/><circle cx="948" cy="84" r="4"/><circle cx="985" cy="128" r="4"/><circle cx="955" cy="203" r="4"/>
+</g>
+<g transform="translate(554 29)" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M0 8L29 0 58 8V29C58 47 43 59 29 65 15 59 0 47 0 29Z"/>
+<path d="M18 25L10 33 18 41M40 25L48 33 40 41M33 21L25 45"/>
+</g>
+<text x="600" y="146" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="49" font-weight="bold" fill="#f0f6fc">JEREMIAH ANDREW</text>
+<text x="600" y="187" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="24" fill="#7dd3fc">CYBERSECURITY + SOFTWARE DEVELOPMENT</text>
+<path d="M440 209H760" stroke="#38bdf8" stroke-opacity=".5"/>
+<text x="600" y="247" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="17" letter-spacing="4" fill="#cbd5e1">BUILD. SECURE. INNOVATE.</text>
+</svg>
