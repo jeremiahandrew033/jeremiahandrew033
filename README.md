@@ -84,6 +84,16 @@ A multidisciplinary project for livestock health surveillance and disease manage
 
 </div>
 
+## Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeremiahandrew033/jeremiahandrew033/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeremiahandrew033/jeremiahandrew033/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake moving through my GitHub contribution history" src="https://raw.githubusercontent.com/jeremiahandrew033/jeremiahandrew033/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</div>
+
 ## Connect
 
 [Explore my GitHub profile](https://github.com/jeremiahandrew033) or browse my repositories to follow my learning and project work.
