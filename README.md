@@ -57,7 +57,14 @@ Technologies I have explored through projects, coursework and hands-on labs:
 ![Metasploit](https://img.shields.io/badge/Metasploit-2563EB?style=for-the-badge)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-## Featured Project
+## Featured Projects
+
+### [NetSentinel — Network Security Inventory](https://github.com/jeremiahandrew033/NetSentinel)
+
+A local security lab dashboard combining a React/TypeScript frontend, FastAPI backend, optional loopback-only Nmap scanning, simulated demo data, SQLite scan history and JSON reports. Initial prototype; automated checks are configured.
+
+**Technologies:** Python, FastAPI, React, TypeScript, Nmap, SQLite.
+
 
 ### [SIH-26128 — AI-Enabled Livestock Health Platform](https://github.com/jeremiahandrew033/SIH-26128)
 
